@@ -1,11 +1,15 @@
 # 💫 Обо мне:
-🎯 Изучаю back-end разработку на DRF/Flask<br>📌 На данный момент работаю над пет-проектом Heroes Inn<br>👨🏼‍💻 Ищу работу разработчиком<br><br>
+## Никита 👋🏻 <br>
+🎯 Изучаю back-end разработку на DRF/Flask<br>📌 На данный момент работаю над пет-проектом Heroes Inn<br>👨🏼‍💻 Ищу работу Python разработчиком<br><br>💻 Есть опыт во front-end <br> 
 
-# Работы:
+# Кое-что из работ:
 ## Коммерческие:
+🟢 [Бот ментального здоровья](https://github.com/TerraNova4697/MentalBot)<br>
+🟢 [Бот анонимного общения](https://github.com/TerraNova4697/AnonymChatBot)<br>
 
 ## Пет-проекты:
-
+🟢 [Таверна героев](https://github.com/TerraNova4697/heroes-inn-back)<br>
+🟢 [Змейка](https://github.com/TerraNova4697/Snake)<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nikita.bechthold.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikitabechthold) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-bechthold-4152b9209) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16298196) 
